@@ -78,7 +78,7 @@ header p {
     padding: 15px 25px;
     font-size: 18px;
     border: none;
-    border-radius: 50px; /* Changed border-radius to make buttons round */
+    border-radius: 50px; 
     color: white;
     cursor: pointer;
     transition: 0.3s;
